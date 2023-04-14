@@ -24,4 +24,4 @@ while flag:
 
     else:
         print(f"That's correct! My number was", num)
-        Flag = False
+        flag = False
